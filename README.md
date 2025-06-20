@@ -3,31 +3,31 @@ Detail-oriented IT and data analytics professional with a strong foundation in l
 
 ## Education
 - University of Massachusetts Boston, Boston, MA
-Bachelor of Science, Information Technology                                                                             Expected 2025
+Bachelor of Science, Information Technology                                                                     
 - Quincy College, Quincy, MA
 Certificate in Biotechnology & Good Manufacturing Practice
-                                                                           2023
-### Google Data Analytics Certificate                                                                                                                2023
+  
+### Google Data Analytics Certificate                                                       
 - Tools: SQL, R, Spreadsheets, Tableau
 - Skills: Data cleaning, analysis, dashboards, reporting
   
-### Google Project Management Certificate 2025
+### Google Project Management Certificate
 - Skills: Agile, Scrum, stakeholder communication, risk management, and planning
   
-### Data Visualization with Tableau Specialization (Coursera/UC Davis)                                                        2025
+### Data Visualization with Tableau Specialization (Coursera/UC Davis)
 - Created interactive dashboards and visual stories
 - Applied best practices for visual analytics in real-world scenarios
-  
+
 ## Professional Experience
 
 ### MiniPCR, Arlington, MA
-Laboratory Technician and QC Administrator                                                                                   2021 – Present
+Laboratory Technician and QC Administrator
 - Lead QC operations, including test design, reagent verification, and stability tracking
 - Collaborated cross-functionally with R&D teams to improve kit formulations and operational workflows.
 - Balanced laboratory operations with inventory and shipping responsibilities across multiple product lines.
   
 ### Amazon Prime Now, Medford, MA
-In-store Shopper                                                                                                                     Aug 2020 – Sep 2022
+In-store Shopper
 - Achieved top performance metrics as a shopper
 - Trained and onboarded new team members, addressed real-time workflow issues
   
