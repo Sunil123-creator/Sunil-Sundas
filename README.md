@@ -1,6 +1,6 @@
-### Sunil Sundas
+# Sunil Sundas
 Detail-oriented IT and data analytics professional with a strong foundation in laboratory operations and quality control. I am Skilled in Python, SQL, Tableau, and project management. Currently pursuing a BS in Information Technology with certifications from Google in Data Analytics and Project Management. Seeking an entry-level role in data analytics or IT support where I can apply my analytical mindset, technical skills, and collaborative experience.
-### Education
+## Education
 University of Massachusetts Boston, Boston, MA
 Bachelor of Science, Information Technology                                                                             Expected 2025
 Quincy College, Quincy, MA
@@ -13,7 +13,7 @@ Certificate in Biotechnology & Good Manufacturing Practice                      
 # Data Visualization with Tableau Specialization (Coursera/UC Davis)                                                        2025
 •	Created interactive dashboards and visual stories
 •	Applied best practices for visual analytics in real-world scenarios
-### Professional Experience
+## Professional Experience
 # MiniPCR, Arlington, MA
 Laboratory Technician and QC Administrator                                                                                   2021 – Present
 •	Lead QC operations, including test design, reagent verification, and stability tracking
@@ -23,7 +23,7 @@ Laboratory Technician and QC Administrator                                      
 In-store Shopper                                                                                                                     Aug 2020 – Sep 2022
 •	Achieved top performance metrics as a shopper
 •	Trained and onboarded new team members, addressed real-time workflow issues
-### Technical & Analytical Skills
+## Technical & Analytical Skills
 Language & Tools: Python, SQL, R, Excel, Tableau, HTML/CSS, MS Project
 Platforms: Linus, Microsoft Teams, Slack, Asana
 Lab Equipment: qPCR, Thermocycler, Pipetting Robot, Freeze Dryer, Spectrophotometer
