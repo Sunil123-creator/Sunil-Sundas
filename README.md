@@ -5,12 +5,12 @@ University of Massachusetts Boston, Boston, MA
 Bachelor of Science, Information Technology                                                                             Expected 2025
 Quincy College, Quincy, MA
 Certificate in Biotechnology & Good Manufacturing Practice                                                                           2023
-# Google Data Analytics Certificate                                                                                                                2023
+### Google Data Analytics Certificate                                                                                                                2023
 •	Tools: SQL, R, Spreadsheets, Tableau
 •	Skills: Data cleaning, analysis, dashboards, reporting
-# Google Project Management Certificate                                                                                                       2025
+### Google Project Management Certificate                                                                                                       2025
 •	Skills: Agile, Scrum, stakeholder communication, risk management, and planning
-# Data Visualization with Tableau Specialization (Coursera/UC Davis)                                                        2025
+### Data Visualization with Tableau Specialization (Coursera/UC Davis)                                                        2025
 •	Created interactive dashboards and visual stories
 •	Applied best practices for visual analytics in real-world scenarios
 ## Professional Experience
