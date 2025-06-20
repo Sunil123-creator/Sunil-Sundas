@@ -10,14 +10,14 @@ Certificate in Biotechnology & Good Manufacturing Practice
 ### Google Data Analytics Certificate                                                                                                                2023
 - Tools: SQL, R, Spreadsheets, Tableau
 - Skills: Data cleaning, analysis, dashboards, reporting
-- 
+  
 ### Google Project Management Certificate 2025
 - Skills: Agile, Scrum, stakeholder communication, risk management, and planning
-- 
+  
 ### Data Visualization with Tableau Specialization (Coursera/UC Davis)                                                        2025
 - Created interactive dashboards and visual stories
 - Applied best practices for visual analytics in real-world scenarios
-- 
+  
 ## Professional Experience
 
 ### MiniPCR, Arlington, MA
@@ -25,12 +25,12 @@ Laboratory Technician and QC Administrator                                      
 - Lead QC operations, including test design, reagent verification, and stability tracking
 - Collaborated cross-functionally with R&D teams to improve kit formulations and operational workflows.
 - Balanced laboratory operations with inventory and shipping responsibilities across multiple product lines.
-- 
+  
 ### Amazon Prime Now, Medford, MA
 In-store Shopper                                                                                                                     Aug 2020 – Sep 2022
 - Achieved top performance metrics as a shopper
 - Trained and onboarded new team members, addressed real-time workflow issues
-- 
+  
 ## Technical & Analytical Skills
 - Language & Tools: Python, SQL, R, Excel, Tableau, HTML/CSS, MS Project
 - Platforms: Linus, Microsoft Teams, Slack, Asana
