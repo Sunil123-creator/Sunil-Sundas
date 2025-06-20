@@ -3,9 +3,9 @@ Detail-oriented IT and data analytics professional with a strong foundation in l
 
 ## Education ##
 - __University of Massachusetts Boston, Boston, MA__
-Bachelor of Science, Information Technology                                                                     
+- Bachelor of Science, Information Technology                                                                     
 - __Quincy College, Quincy, MA__
-Certificate in Biotechnology & Good Manufacturing Practice
+- Certificate in Biotechnology & Good Manufacturing Practice
 
 ### Google Data Analytics Certificate ###                                                  
 - __Tools__: SQL, R, Spreadsheets, Tableau
