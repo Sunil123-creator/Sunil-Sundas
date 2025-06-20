@@ -2,13 +2,13 @@
 Detail-oriented IT and data analytics professional with a strong foundation in laboratory operations and quality control. I am Skilled in Python, SQL, Tableau, and project management. Currently pursuing a BS in Information Technology with certifications from Google in Data Analytics and Project Management. Seeking an entry-level role in data analytics or IT support where I can apply my analytical mindset, technical skills, and collaborative experience.
 
 ## Education
-University of Massachusetts Boston, Boston, MA
+- University of Massachusetts Boston, Boston, MA
 Bachelor of Science, Information Technology                                                                             Expected 2025
-Quincy College, Quincy, MA
+- Quincy College, Quincy, MA
 Certificate in Biotechnology & Good Manufacturing Practice                                                                           2023
 ### Google Data Analytics Certificate                                                                                                                2023
-•	Tools: SQL, R, Spreadsheets, Tableau
-•	Skills: Data cleaning, analysis, dashboards, reporting
+- Tools: SQL, R, Spreadsheets, Tableau
+- Skills: Data cleaning, analysis, dashboards, reporting
 ### Google Project Management Certificate                                                                                                       2025
 •	Skills: Agile, Scrum, stakeholder communication, risk management, and planning
 ### Data Visualization with Tableau Specialization (Coursera/UC Davis)                                                        2025
