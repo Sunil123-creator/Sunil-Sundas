@@ -6,7 +6,7 @@ Detail-oriented IT and data analytics professional with a strong foundation in l
 Bachelor of Science, Information Technology                                                                     
 - Quincy College, Quincy, MA
 Certificate in Biotechnology & Good Manufacturing Practice
-  
+
 ### Google Data Analytics Certificate                                                       
 - Tools: SQL, R, Spreadsheets, Tableau
 - Skills: Data cleaning, analysis, dashboards, reporting
