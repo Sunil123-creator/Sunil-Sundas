@@ -10,10 +10,10 @@ Certificate in Biotechnology & Good Manufacturing Practice                      
 - Tools: SQL, R, Spreadsheets, Tableau
 - Skills: Data cleaning, analysis, dashboards, reporting
 ### Google Project Management Certificate                                                                                                       2025
-•	Skills: Agile, Scrum, stakeholder communication, risk management, and planning
+- Skills: Agile, Scrum, stakeholder communication, risk management, and planning
 ### Data Visualization with Tableau Specialization (Coursera/UC Davis)                                                        2025
-•	Created interactive dashboards and visual stories
-•	Applied best practices for visual analytics in real-world scenarios
+- Created interactive dashboards and visual stories
+- Applied best practices for visual analytics in real-world scenarios
 ## Professional Experience
 ### MiniPCR, Arlington, MA
 Laboratory Technician and QC Administrator                                                                                   2021 – Present
